@@ -13,7 +13,7 @@ window.onload = function() {
         var studentName = splitString[2];
 
         // grading message goes here
-        var gradingMessage = "Hi " + studentName + "!  \n\nCheers! Amy Witt, Grading Team"  \n\n"If anything here that I’ve mentioned is unclear, please don’t hesitate to [reach out for help via Slack.](https://www.bloc.io/resources/getting-unstuck)";
+        var gradingMessage = "Hi " + studentName + "!  \n\n" "Cheers! Amy Witt, Grading Team" " \n\nIf anything here that I’ve mentioned is unclear, please don’t hesitate to [reach out for help via Slack.](https://www.bloc.io/resources/getting-unstuck)";
 
         // get textzarea
         var submissionTextarea = document.getElementById('comment-box');
